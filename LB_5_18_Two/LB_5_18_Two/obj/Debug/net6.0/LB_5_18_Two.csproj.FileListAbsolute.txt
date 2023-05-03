@@ -1,0 +1,15 @@
+C:\Users\posle\source\repos\LB_5_18_Two\LB_5_18_Two\bin\Debug\net6.0\LB_5_18_Two.exe
+C:\Users\posle\source\repos\LB_5_18_Two\LB_5_18_Two\bin\Debug\net6.0\LB_5_18_Two.deps.json
+C:\Users\posle\source\repos\LB_5_18_Two\LB_5_18_Two\bin\Debug\net6.0\LB_5_18_Two.runtimeconfig.json
+C:\Users\posle\source\repos\LB_5_18_Two\LB_5_18_Two\bin\Debug\net6.0\LB_5_18_Two.dll
+C:\Users\posle\source\repos\LB_5_18_Two\LB_5_18_Two\bin\Debug\net6.0\LB_5_18_Two.pdb
+C:\Users\posle\source\repos\LB_5_18_Two\LB_5_18_Two\obj\Debug\net6.0\LB_5_18_Two.csproj.AssemblyReference.cache
+C:\Users\posle\source\repos\LB_5_18_Two\LB_5_18_Two\obj\Debug\net6.0\LB_5_18_Two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\posle\source\repos\LB_5_18_Two\LB_5_18_Two\obj\Debug\net6.0\LB_5_18_Two.AssemblyInfoInputs.cache
+C:\Users\posle\source\repos\LB_5_18_Two\LB_5_18_Two\obj\Debug\net6.0\LB_5_18_Two.AssemblyInfo.cs
+C:\Users\posle\source\repos\LB_5_18_Two\LB_5_18_Two\obj\Debug\net6.0\LB_5_18_Two.csproj.CoreCompileInputs.cache
+C:\Users\posle\source\repos\LB_5_18_Two\LB_5_18_Two\obj\Debug\net6.0\LB_5_18_Two.dll
+C:\Users\posle\source\repos\LB_5_18_Two\LB_5_18_Two\obj\Debug\net6.0\refint\LB_5_18_Two.dll
+C:\Users\posle\source\repos\LB_5_18_Two\LB_5_18_Two\obj\Debug\net6.0\LB_5_18_Two.pdb
+C:\Users\posle\source\repos\LB_5_18_Two\LB_5_18_Two\obj\Debug\net6.0\LB_5_18_Two.genruntimeconfig.cache
+C:\Users\posle\source\repos\LB_5_18_Two\LB_5_18_Two\obj\Debug\net6.0\ref\LB_5_18_Two.dll
